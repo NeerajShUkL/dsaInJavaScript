@@ -27,3 +27,9 @@ console.log(sum(10));
 // push/pop - O(1)
 // shift / unshift / concat / slice / splice - O(n)
 // forEach / map / filter / reduce - O(n)
+
+//Big-O Guide
+// Calculation not dependent on input size - O(1)
+// loop - O(n)
+//  nested loops - O(n^2)
+// input size reduced by halp -O(logn)
